@@ -20,3 +20,5 @@
 10. Uso da AWS CLI e SDKs (especialmente em Python, JavaScript ou Java)
 11. Práticas de CI/CD com CodeCommit, CodeBuild, CodeDeploy, CodePipeline
 12. Gerenciamento de credenciais e permissões com IAM
+
+## Boas práticas de segurança
