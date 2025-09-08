@@ -9,3 +9,4 @@
 ## Serviços principais para desenvolvedores
 
 4. EC2 (instâncias de servidor)
+5. S3 (armazenamento de objetos)
