@@ -11,3 +11,4 @@
 4. EC2 (instâncias de servidor)
 5. S3 (armazenamento de objetos)
 6. DynamoDB e RDS (bancos de dados)
+7. Lambda (funções serverless)
