@@ -14,3 +14,5 @@
 7. Lambda (funções serverless)
 8. API Gateway, SNS, SQS, Step Functions
 9. CloudWatch e X-Ray para monitoramento e depuração
+
+## Desenvolvimento e Integração
