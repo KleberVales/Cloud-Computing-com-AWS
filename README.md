@@ -1,1 +1,1 @@
-# Cloud-Computing-com-AWS
+# AWS Cloud Practitioner
