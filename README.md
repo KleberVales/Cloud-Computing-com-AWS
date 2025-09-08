@@ -7,3 +7,5 @@
 3. Princípio de responsabilidade compartilhada
 
 ## Serviços principais para desenvolvedores
+
+4. EC2 (instâncias de servidor)
