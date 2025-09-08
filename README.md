@@ -22,3 +22,5 @@
 12. Gerenciamento de credenciais e permissões com IAM
 
 ## Boas práticas de segurança
+
+13. Criação de políticas IAM
