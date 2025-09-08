@@ -28,3 +28,5 @@
 15. Criptografia em repouso e em trânsito
 
 ## Modelos de precificação e suporte
+
+16. Saber como os serviços são cobrados
