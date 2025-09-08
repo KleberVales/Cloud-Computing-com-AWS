@@ -26,3 +26,5 @@
 13. Criação de políticas IAM
 14. Uso de roles e permissões mínimas
 15. Criptografia em repouso e em trânsito
+
+## Modelos de precificação e suporte
