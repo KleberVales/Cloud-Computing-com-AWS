@@ -16,3 +16,5 @@
 9. CloudWatch e X-Ray para monitoramento e depuração
 
 ## Desenvolvimento e Integração
+
+10. Uso da AWS CLI e SDKs (especialmente em Python, JavaScript ou Java)
