@@ -18,3 +18,4 @@
 ## Desenvolvimento e Integração
 
 10. Uso da AWS CLI e SDKs (especialmente em Python, JavaScript ou Java)
+11. Práticas de CI/CD com CodeCommit, CodeBuild, CodeDeploy, CodePipeline
