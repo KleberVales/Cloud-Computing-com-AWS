@@ -24,3 +24,4 @@
 ## Boas práticas de segurança
 
 13. Criação de políticas IAM
+14. Uso de roles e permissões mínimas
