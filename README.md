@@ -31,3 +31,5 @@
 
 16. Saber como os serviços são cobrados
 17. Ferramentas como o AWS Pricing Calculator e Billing Dashboard
+
+# AWS Certified Developer – Associate (DVA-C02)
